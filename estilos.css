@@ -26,7 +26,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(31, 87, 47, 0.404) 0%, rgba(255, 209, 255, 0.404) 100%), url(/img/seis.png);
+    background-image: linear-gradient(to top, rgba(31, 87, 47, 0.404) 0%, rgba(255, 209, 255, 0.404) 100%), url(./img/seis.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
